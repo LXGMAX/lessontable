@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+font{color: rgba(107,192,114,1.00);font-family: "等线";font-feature-settings: normal}
+body{background-color: rgba(243,211,170,1.00);}
+body{font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"}
+body{
+	background-image: url(55bad35a8b338.jpg);
+	background-repeat: repeat-y;
+}
+img{opacity: 0.6}
